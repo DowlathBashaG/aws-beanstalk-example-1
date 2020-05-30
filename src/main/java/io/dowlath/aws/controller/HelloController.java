@@ -14,6 +14,6 @@ public class HelloController {
 
     @GetMapping
     public String hello(){
-        return "Hello Dowlath Basha G welcomes you....!!!";
+        return "Hello Dowlath Basha G welcomes to All....!!!";
     }
 }
